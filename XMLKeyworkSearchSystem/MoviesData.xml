@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+  <movie id="1">
+    <title>Avengers: Infinity War</title>
+    <director>Anthony and Joe Russo</director>
+    <year>2018</year>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Fantasy</genre>
+    <rating>6.9</rating>
+  </movie>
+  <movie id="2">
+    <title>Guardians of the Galaxy</title>
+    <director>James Gunn</director>
+    <year>2014</year>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Comedy</genre>
+    <rating>4.5</rating>
+  </movie>
+  <movie id="3">
+    <title>Guardians of the Galaxy Vol 2</title>
+    <director>James Gunn</director>
+    <year>2017</year>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Comedy</genre>
+    <rating>9.0</rating>
+  </movie>
+  <movie id="4">
+    <title>Captain America: Civil War</title>
+    <director>Anthony and Joe Russo</director>
+    <year>2016</year>
+   <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Sci-Fi</genre>
+    <rating>7.0</rating>
+  </movie>
+  <movie id="5">
+    <title>Thor: Ragnarok</title>
+    <director>Taika Waititi</director>
+    <year>2017</year>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Comedy</genre>
+    <rating>5.0</rating>
+  </movie>
+  <movie id="6">
+    <title>Spider-Man: Homecoming</title>
+    <director>Jon Watts</director>
+    <year>2017</year>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Sci-Fi</genre>
+    <rating>8</rating>
+  </movie>
+  <movie id="7">
+    <title>Spider-Man</title>
+    <director>Sam Raimi</director>
+    <year>2002</year>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Sci-Fi</genre>
+    <rating>7.0</rating>
+  </movie>
+  <movie id="8" type="lame">
+    <title>Spider-Man 2</title>
+    <director>Sam Raimi</director>
+    <year>2004</year>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Sci-Fi</genre>
+    <rating>8.0</rating>
+  </movie>
+  <movie id="9">
+    <title>Ant-Man and the Wasp</title>
+    <director>Peyton Reed</director>
+    <year>2018</year>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Sci-Fi</genre>
+    <rating>5.0</rating>
+  </movie>
+  <movie id="10">
+    <title>Beauty and the Beast</title>
+    <director>Bill Condon</director>
+    <year>2017</year>
+    <genre>Family</genre>
+    <genre>Fantasy</genre>
+    <genre>Musical</genre>
+    <rating>7.0</rating>
+  </movie>
+  <movie id="11">
+    <title>Tag</title>
+    <director>Jeff Tomsic</director>
+    <year>2018</year>
+    <genre>Comedy</genre>
+    <rating>6.9</rating>
+  </movie>
+  <movie id="12">
+    <title>It</title>
+    <director>Andy Mushietti</director>
+    <year>2017</year>
+    <genre>Drama</genre>
+    <genre>Horror</genre>
+    <genre>Thriller</genre>
+    <rating>5.5</rating>
+  </movie>
+  <movie id="13">
+    <title>Deadpool 2</title>
+    <director>David Leitch</director>
+    <year>2018</year>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <genre>Comedy</genre>
+    <rating>8.0</rating>
+  </movie>
+  <movie id="14">
+    <title>Venom</title>
+    <director>Ruben Fleischer</director>
+    <year>2018</year>
+    <genre>Action</genre>
+    <genre>Sci-Fi</genre>
+    <rating>6.0</rating>
+  </movie>
+  <movie id="15">
+    <title>The Incredibles</title>
+    <director>Brad Bird</director>
+    <year>2004</year>
+    <genre>Animation</genre>
+    <genre>Action</genre>
+    <genre>Adventure</genre>
+    <rating>7.9</rating>
+  </movie>
+</movies>
